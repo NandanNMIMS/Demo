@@ -1,11 +1,11 @@
 .body{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 .card{
-    background: #f8f8f8;
-    color: #000000;
+    background: #da0c0c;
+    color: #ffffff;
     height: 400px;
     width: 300px;
 }
